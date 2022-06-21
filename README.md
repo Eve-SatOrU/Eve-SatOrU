@@ -9,8 +9,6 @@
     
     <b> My Github Stats 🔥</b>
 </h3>
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=meriemtoumi&theme=radical)
 <a href="https://github.com/meriemtoumi/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meriemtoumi&theme=dracula" alt="mriemtoumi" /></a>
 <img src="https://activity-graph.herokuapp.com/graph?username=meriemtoumi&theme=github" alt="meriemtoumi" />
 <img src="https://github-readme-stats.vercel.app/api?username=meriemtoumi&show_icons=true&theme=gotham" alt="meriemtoumi" />
