@@ -9,8 +9,8 @@
     
     <b> My Github Stats 🔥</b>
 </h3>
-<a href="https://github.com/meriemtoumi/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meriemtoumi&theme=dracula" alt="mriemtoumi" /></a>
+<a href="https://github.com/meriemtoumi/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meriemtoumi&theme=radical" alt="mriemtoumi" /></a>
 <img src="https://activity-graph.herokuapp.com/graph?username=meriemtoumi&theme=github" alt="meriemtoumi" />
-<img src="https://github-readme-stats.vercel.app/api?username=meriemtoumi&show_icons=true&theme=gotham" alt="meriemtoumi" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=meriemtoumi&theme=gotham" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meriemtoumi&count_private=true&theme=gotham&line_height=30&hide=html&layout=default" alt="meriemtoumi" />
+<img src="https://github-readme-stats.vercel.app/api?username=meriemtoumi&show_icons=true&theme=radical" alt="meriemtoumi" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=meriemtoumi&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meriemtoumi&count_private=true&theme=radical&line_height=30&hide=html&layout=default" alt="meriemtoumi" />
