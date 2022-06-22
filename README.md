@@ -12,6 +12,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=meriemtoumi&show_icons=true&theme=radical" alt="meriemtoumi" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=meriemtoumi&theme=radical" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meriemtoumi&count_private=true&theme=radical&line_height=30&hide=html&layout=default" alt="meriemtoumi" />
-
-
-[![](https://visitcount.itsvg.in/api?id=meriemtoumi&label=Profile%20Views&color=11&icon=8&pretty=true)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=meriemtoumi&label=Profile%20Views&color=11&icon=8&pretty=true" />
+</a>
