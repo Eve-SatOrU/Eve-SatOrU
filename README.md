@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Js
 - 🤔 I’m looking for help with node js
 - 📫 How to reach me: mimimeriem20012001@gmail.com
-- 😄 Pronouns: Eve SatOrU 
+- 😄 Pronouns: "Eve" ,"meriem" 
  ## My Github Stats 🔥
 </h3>
 <a href="https://github.com/meriemtoumi/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meriemtoumi&theme=radical" alt="mriemtoumi" /></a>
