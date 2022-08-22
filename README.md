@@ -1,6 +1,5 @@
 ### Hi 👋, I'm Toumi meriem
-
-
+[![GitHub meriemtoumi](https://img.shields.io/github/followers/meriemtoumi?label=follow&style=social)](https://github.com/meriemtoumi)
 - 🌱 I’m currently learning Js
 - 🤔 I’m looking for help with node js
 - 📫 How to reach me: mimimeriem20012001@gmail.com
