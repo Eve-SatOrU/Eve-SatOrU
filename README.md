@@ -13,3 +13,5 @@
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Eve-SatOrU&label=Profile%20Views&color=11&icon=8&pretty=true" />
 </a>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Eve-SatOrU&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/Eve-SatOrU/github-readme-activity-graph)
