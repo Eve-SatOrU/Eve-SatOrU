@@ -15,3 +15,5 @@
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Eve-SatOrU&label=Profile%20Views&color=11&icon=8&pretty=true" />
 </a>
+
+[![Eve-SatOrU GitHub stats](https://github-readme-stats.vercel.app/api?username=Eve-SatOrU&count_private=true&show_icons=true&theme=radical)](https://github.com/Eve-SatOrU/github-readme-stats)
