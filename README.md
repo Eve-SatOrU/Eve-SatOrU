@@ -13,4 +13,6 @@
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Eve-SatOrU&label=Profile%20Views&color=11&icon=8&pretty=true" />
 </a>
-[![Eve-SatOrU github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Eve-SatOrU)](https://github.com/Eve-SatOrU/github-readme-activity-graph)
+[![Eve-SatOrU github activity graph]
+(https://github-readme-activity-graph.cyclic.app/graph?username=Eve-SatOrU)]
+(https://github.com/Eve-SatOrU/github-readme-activity-graph)
