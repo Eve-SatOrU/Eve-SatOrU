@@ -10,8 +10,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Eve-SatOrU&show_icons=true&theme=radical" alt="Eve-SatOrU" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eve-SatOrU&theme=radical" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eve-SatOrU&count_private=true&theme=radical&line_height=30&hide=html&layout=default" alt="Eve-SatOrU" />
+
+[![Eve-SatOrU github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Eve-SatOrU&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/Eve-SatOrU/github-readme-activity-graph)
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Eve-SatOrU&label=Profile%20Views&color=11&icon=8&pretty=true" />
 </a>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Eve-SatOrU&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/Eve-SatOrU/github-readme-activity-graph)
