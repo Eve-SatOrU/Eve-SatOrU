@@ -1,3 +1,8 @@
+<div id="header" >
+  <img src="https://media.giphy.com/media/XCmcHcwMnHHbwI1ea2/giphy.gif" width="500"/>
+</div>
+
+
 ### Hi 👋, I'm Toumi meriem
 [![GitHub Eve-SatOrU](https://img.shields.io/github/followers/Eve-SatOrU?label=follow&style=social)](https://github.com/Eve-SatOrU)
 - 🌱 I’m currently learning Js
