@@ -1,7 +1,7 @@
 <div id="header" >
-<!--   <img src="https://media.giphy.com/media/XCmcHcwMnHHbwI1ea2/giphy.gif" width="500"/> -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3BveXJybHdsa2ZwcGZoMm9obGExMzk3enB2cXRvZXlia29taWRtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bqSkJ4IwNcoZG/giphy.gif" width="700" />  
-</div>
+  <img src="https://media.giphy.com/media/XCmcHcwMnHHbwI1ea2/giphy.gif" width="500"/>
+<!--   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3BveXJybHdsa2ZwcGZoMm9obGExMzk3enB2cXRvZXlia29taWRtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bqSkJ4IwNcoZG/giphy.gif" width="700" />  
+</div> -->
 
 
 ### Hi 👋, I'm Toumi meriem
